@@ -1,0 +1,17 @@
+h1 {
+  color: aquamarine;
+}
+input {
+  width : 40px;
+  height: 40px;
+  text-align: center;
+}
+
+#reslut {
+  font-size: 20px;
+}
+#btn {
+  width: 100px;
+  height: 50px;
+  margin: 5px;
+}

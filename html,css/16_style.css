@@ -1,0 +1,18 @@
+table, th, td {
+  border: 5px solid gray;
+  border-collapse: collapse;
+padding: 10px;
+}
+th {
+background-color: aqua;
+color: white;
+}
+td{
+  text-align: center;
+}
+
+h1 {
+  background-color: navy;
+  color: yellow;
+  font-style: italic;
+}
